@@ -13,6 +13,7 @@
 		FADA1B5525CDFAA70027017D /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = FADA1B5325CDFAA70027017D /* Main.storyboard */; };
 		FADA1B5725CDFAA90027017D /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = FADA1B5625CDFAA90027017D /* Assets.xcassets */; };
 		FADA1B5A25CDFAA90027017D /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = FADA1B5825CDFAA90027017D /* LaunchScreen.storyboard */; };
+		FADA1B6325CDFB2B0027017D /* SecondViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = FADA1B6225CDFB2B0027017D /* SecondViewController.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -24,6 +25,7 @@
 		FADA1B5625CDFAA90027017D /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		FADA1B5925CDFAA90027017D /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		FADA1B5B25CDFAA90027017D /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		FADA1B6225CDFB2B0027017D /* SecondViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SecondViewController.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -59,6 +61,7 @@
 				FADA1B4D25CDFAA70027017D /* AppDelegate.swift */,
 				FADA1B4F25CDFAA70027017D /* SceneDelegate.swift */,
 				FADA1B5125CDFAA70027017D /* ViewController.swift */,
+				FADA1B6225CDFB2B0027017D /* SecondViewController.swift */,
 				FADA1B5325CDFAA70027017D /* Main.storyboard */,
 				FADA1B5625CDFAA90027017D /* Assets.xcassets */,
 				FADA1B5825CDFAA90027017D /* LaunchScreen.storyboard */,
@@ -137,6 +140,7 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				FADA1B6325CDFB2B0027017D /* SecondViewController.swift in Sources */,
 				FADA1B5225CDFAA70027017D /* ViewController.swift in Sources */,
 				FADA1B4E25CDFAA70027017D /* AppDelegate.swift in Sources */,
 				FADA1B5025CDFAA70027017D /* SceneDelegate.swift in Sources */,
